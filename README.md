@@ -1,7 +1,4 @@
 # powershell - scripts e trecos
-<p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
-algumas coisas que costumo usar:
-1. `serverStatus.ps1`
+Uma coleção de scripts pequenos e úteis que costumo utilizzar.
+:construction: Projeto em construção :construction:
